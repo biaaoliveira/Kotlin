@@ -6,6 +6,8 @@ class Cliente(
 
         private val listaCompras = mutableListOf<String>()
 
+        val lista = listaCompras
+
         init {
             checarDados()
         }
