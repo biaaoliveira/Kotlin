@@ -20,7 +20,7 @@
             }
 
         override fun subirArvores() {
-            print("Nunca vi! k")
+            println("Nunca vi! k")
         }
 
             override fun emitirSom() {
